@@ -1,0 +1,45 @@
+1. DevOps Introduction
+What is DevOps?
+DevOps + Development + Operations
+It's culture +set of practices +tools that help:
+* Developers(Who write code)
+* Operations (Who deploy/ manage systems)
+--> work together, instead of working in silos.
+Real- time Example:
+Imagine you're building a mobile app like Swiggy.
+* The developer writes code to add "Track My Order" Feature
+*without DevOps: Developer gives code to Ops team --> they manually deploy --> bugs happen --> delays.
+*with DevOps:
+Code is automatically tested and deployed --> customers get updates faster and safely.
+
+
+DevOps Helps You:
+* Release features faster(like adding new payment methods in Zomato)
+* Fix bugs quickly(like fixing login issue in IRCTC)
+* Automate respective tasks(like server restarts, database backups) 
+
+DevOps Lifecycle
+
+~ The 8 phases of DevOps Lifecycle: 
+
+Plan     Define what to build                     swiggy decides to add a "Dark Mode Feature
+Develop  write the code                           developers write java / kotlin code for UI  
+Build    compile code into deployable format      Android APK is built automatically
+Test     Check for bugs automatically             
+Release  Approve the build for deployment         QA signs odd the build
+Deploy   Push app to serves or app store          APK is uploaded to play store
+Operate  keep app running, fix any issues         Monitor if app is crashing
+Monitor  Analyze performance and feedback         Fire base  or new relic shows App metrics
+
+~ Cycle contiinues: Feedback from users --> back to plan
+
+
+3. GitHub Basics:
+
+what is Git & GitHub?
+  *Git= Version control System(local)
+  *GitHub = Online Platform to store  Git Projects
+
+* Real- Life Analogy:
+
+
